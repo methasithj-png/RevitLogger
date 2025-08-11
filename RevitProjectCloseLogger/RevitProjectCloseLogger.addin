@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit Project Close Logger</Name>
+    <AddInId>8D83F3B1-0D1D-4B66-9B71-8B33F7E34631</AddInId>
+    <FullClassName>RevitProjectCloseLogger.App</FullClassName>
+    <VendorId>RCLG</VendorId>
+    <VendorDescription>Project close logging to Excel-compatible CSV</VendorDescription>
+    <Assembly>$(AppData)\Autodesk\Revit\Addins\2024\RevitProjectCloseLogger\RevitProjectCloseLogger.dll</Assembly>
+  </AddIn>
+</RevitAddIns>
